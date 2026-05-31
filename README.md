@@ -29,7 +29,7 @@ The dataset contains daily weather observations from World War II. It includes t
 - Target: MeanTemp
 
 ## Train/Test Split
-- Train size: 20%
+- Train size: 80%
 - Random state: 15
 
 ## Models
